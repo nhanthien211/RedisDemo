@@ -13,8 +13,11 @@ Download and install one of the supported Linux distros from the Microsoft Store
 
 ### 2.Install and Test Redis
 
-Run cmd and enter command "bash" 
-Install redis-server
+Run cmd and enter:
+```
+bash
+```
+Install redis-server:
 ```
 > sudo apt-get update
 > sudo apt-get upgrade
